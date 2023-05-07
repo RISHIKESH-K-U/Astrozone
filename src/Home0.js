@@ -2,7 +2,7 @@ import { useState } from "react";
 import image1 from "./Images/i1.jpg";
 import image2 from "./Images/i2.jpg";
 import image3 from "./Images/i3.jpg";
-import "./home.css";
+import "./CSS/home.css";
 
 const Home0 = () => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

@@ -8,6 +8,19 @@
   
 }
 
+.iconimage {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.tagline {
+  color: white;
+  margin-right: 250px;
+  margin-left: 5px;
+}
+
 .nav-bar a {
   color: #fff;
   text-decoration: none;

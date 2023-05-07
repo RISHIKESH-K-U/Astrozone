@@ -1,4 +1,4 @@
-import "./home.css";
+import "./CSS/home.css";
 import Card from "./Card";
 import Card1 from "./Card1";
 import Card2 from "./Card2";

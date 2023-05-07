@@ -1,0 +1,86 @@
+.homep {
+    background-image: url(hbg.jfif);
+    margin: 0;
+    padding: 0;
+        
+}
+
+.cardholder {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+.home1{
+    background-size: cover;
+    height: 500px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.home2{
+    
+        height: 500px; 
+    color: white;
+    
+     margin-top: 200px; 
+    
+}
+
+.acard h2:before {
+    content: "\2606"; 
+    margin-right: 10px; 
+  }
+  
+.acard {
+    height: 100px;
+    width:1300px;
+    margin-top: 50px;
+    color: white;
+    margin-left: 130px;
+   
+    
+}
+
+.slideshow img {
+    width: 900px;;
+    height: 500px;
+    
+}
+
+.slideshow button {
+    width: 30px;;
+    height: auto;
+    background-color: transparent;
+    outline: transparent;
+    color: white;
+}
+
+.slideshow {
+     text-align: center;
+    display: inline-flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    color:white;
+    display: flex;
+    flex-direction: row;
+    margin-left: 570px;
+}
+
+.footer  :hover {
+    color: yellow;
+}
+
+.footer h4{
+    margin-left: 20px;
+}
+
+
+
